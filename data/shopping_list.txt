@@ -1,0 +1,20 @@
+Bread,10.50
+Milk,15.0
+CocaCola,8.0
+Steak,40.05
+Potatoes,6.0
+Carrots,5.0
+Olive Oil,27.0
+Cheddar Cheese,45.0
+Feta,35.0
+Lettuce,12.2
+Garlic,18.0
+Coffee,20.2
+Apples,10.0
+Bacon,20.8
+Chocolate,11.2
+Sugar,25.5
+Noodles,22.50
+Sweets,10.25
+Water,32.5
+Popcorn,5.30

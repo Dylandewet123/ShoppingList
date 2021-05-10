@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"code","l":"ConsolePrint"},{"p":"code","l":"Control"},{"p":"code","l":"DataArray"},{"p":"code","l":"Exemption"},{"p":"code","l":"GetData"},{"p":"code","l":"VATrate"}];updateSearchResults();
