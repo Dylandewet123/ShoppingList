@@ -21,7 +21,7 @@ you know how much you are going to pay at the end of your shopping trip.
 6) Format the output to the console so that each coloumn is aligned.                                                        <b>(5)</b>  
 7) Determine the total price for all items exculing VAT, the VAT amount and then including VAT.                             <b>(5)</b>  
 ## GENERAL
-7.1) Usage of seeperate classes to simplfy the Control.java (The file cotaining the main method.                            <b>(5)</b>  
+7.1) Seperate classes to simplfy the Control.java (The file cotaining the main method.                            <b>(5)</b>  
 7.2) All values should be rounded to two decimal places, you may use <String.format()> or calculation                       <b>(5)</b>
 
 # MARKING
